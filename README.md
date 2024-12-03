@@ -1,6 +1,6 @@
 # Integrating Genetic Information for Alzheimer's Diagnosis through MRI Interpretation
 
-This repository contains the code for the paper "Integrating Genetic Information for Alzheimer's Diagnosis through MRI Interpretation," presented at the IEEE International Conference on Biomedical and Health Informatics (BHI).
+This repository contains the code for the paper "Integrating Genetic Information for Alzheimer's Diagnosis through MRI Interpretation," presented at the IEEE International Conference on Biomedical and Health Informatics (BHI).[PAPER website](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10313442).
 
 ## Table of Contents
 - [Introduction](#introduction)
